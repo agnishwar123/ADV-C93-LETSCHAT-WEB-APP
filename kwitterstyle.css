@@ -98,7 +98,12 @@
 
 .header
 {
-	color: rgb(0, 81, 255);font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+	color: grey;
+  font-family: 'Monoton', cursive;
+  font-weight: 550;
+  font-size: 45px;
+  letter-spacing: 10px;
+  margin-top: 80px;
 }
 .header img
 {
